@@ -1,0 +1,8 @@
+SAU staph aureus,grm,gram pos cocci,hml,beta,cat,pos,cog,pos,mcd,neg,nvb,resist,,,,,,,,,,
+SEP staph epidermis,grm,gram pos cocci,hml,gamma,cat,pos,cog,neg,mcd,neg,nvb,suscept,,,,,,,,,,
+SSP staph saprophyticus,grm,gram pos cocci,hml,gamma,cat,pos,cog,neg,mcd,neg,,,,,,,,,,,,
+MCC micrococcus,grm,gram pos cocci,hml,gamma,cat,pos,cog,pos,mcd,pos,,,,,,,,,,,,
+SPN strep pneumoniae,grm,gram pos cocci,hml,alpha,cat,neg,btc,suscept,opt,resist,pyr,pos,bsc,neg,ssa,neg,bsb,pos,cmp,neg,hpu,neg
+SAG strep agalactiae,grm,gram pos cocci,hml,beta,cat,neg,btc,resist,opt,resist,pyr,neg,bsc,neg,ssa,neg,bsb,neg,cmp,neg,hpu,neg
+SPY strep pyogenes,grm,gram pos cocci,hml,beta,cat,neg,opt,suscept,pyr,neg,bsc,neg,ssa,neg,bsb,neg,cmp,pos,hpu,pos,,
+ETC enterococcus,grm,gram pos cocci,hml,gamma,cat,neg,pyr,pos,bsc,pos,ssa,pos,cmp,neg,,,,,,,,,,,,
